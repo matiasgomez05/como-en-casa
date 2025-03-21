@@ -6,7 +6,7 @@ const Contacto = () => {
   return (
     <section 
       id="contacto" 
-      className="d-flex align-items-center">
+      className="d-flex align-items-center text-white">
       <motion.div 
         className="container"
         initial={{ opacity: 0, y: 80 }}
