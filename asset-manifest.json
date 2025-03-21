@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/como-en-casa/static/css/main.6a9274fa.css",
-    "main.js": "/como-en-casa/static/js/main.a4bfc962.js",
-    "static/js/453.60c99886.chunk.js": "/como-en-casa/static/js/453.60c99886.chunk.js",
+    "main.js": "/como-en-casa/static/js/main.2caa9446.js",
+    "static/js/453.f76e0f5c.chunk.js": "/como-en-casa/static/js/453.f76e0f5c.chunk.js",
     "static/media/Hero001.jpg": "/como-en-casa/static/media/Hero001.74e43b725b130b1c58c9.jpg",
     "static/media/Hero002.jpg": "/como-en-casa/static/media/Hero002.eee794ac8f6c06da1135.jpg",
     "index.html": "/como-en-casa/index.html",
     "main.6a9274fa.css.map": "/como-en-casa/static/css/main.6a9274fa.css.map",
-    "main.a4bfc962.js.map": "/como-en-casa/static/js/main.a4bfc962.js.map",
-    "453.60c99886.chunk.js.map": "/como-en-casa/static/js/453.60c99886.chunk.js.map"
+    "main.2caa9446.js.map": "/como-en-casa/static/js/main.2caa9446.js.map",
+    "453.f76e0f5c.chunk.js.map": "/como-en-casa/static/js/453.f76e0f5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a9274fa.css",
-    "static/js/main.a4bfc962.js"
+    "static/js/main.2caa9446.js"
   ]
 }
